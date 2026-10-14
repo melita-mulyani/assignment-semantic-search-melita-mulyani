@@ -264,12 +264,14 @@ Improvement: Dokumentasikan model yang digunakan, tangani error API, dan pertimb
 
 ## 9. Cara Menjalankan Notebook/Script
 **9.a. Running Script**
+
 Pada terminal VSCode, jalankan: 
 
 python src\semantic_search.py
 python src\semantic_search.py --test
 
 **9.b. Cara Manual**
+
 Prerequisites
 
 Python dan virtual environment.
