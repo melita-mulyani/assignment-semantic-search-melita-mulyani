@@ -263,7 +263,13 @@ Eksperimen mengalami kendala ketika mencoba beberapa model Gemini, termasuk resp
 Improvement: Dokumentasikan model yang digunakan, tangani error API, dan pertimbangkan mekanisme retry yang terbatas untuk gangguan sementara.
 
 ## 9. Cara Menjalankan Notebook/Script
+**9.a. Running Script**
+Pada terminal VSCode, jalankan: 
 
+python src\semantic_search.py
+python src\semantic_search.py --test
+
+**9.b. Cara Manual**
 Prerequisites
 
 Python dan virtual environment.
